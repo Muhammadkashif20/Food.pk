@@ -1,0 +1,59 @@
+a {
+    text-decoration: none;
+    text-indent: 20dvb;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px;
+    text-indent: 30%;
+    color: black;
+}
+table {
+    background-color: rgb(238, 255, 255);
+    text-align: center;
+    text-indent: 30px;
+   
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 360%;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(242, 2, 10); 
+    }
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    text-align: center;
+    background-color: rgb(164, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+   :visited{
+    color: rgb(0, 52, 120);
+   }
+   .com{
+    text-align: left;
+    text-indent: 40px;
+   }
+ h2{    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px 1px rgb(194, 1, 116)  ;
+ }
+ div{
+    background-color: skyblue;
+ }
+ H3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px 1px rgb(194, 1, 116)  ;
+ }
+ H4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 1px 1px 1px rgb(194, 1, 116)  ;
+ }
